@@ -12,7 +12,7 @@ Built around the challenge of coordinating crops, animals, labor, inventory, and
 
 **Nakul Maurya reached rank 190 on the Kaggriculture leaderboard**, as recorded in the screenshot below on September 20, 2026.
 
-![Kaggriculture leaderboard showing Nakul Maurya at rank 190 with a score of 2761.8](assets/kaggriculture-leaderboard.png)
+![Kaggriculture leaderboard showing Nakul Maurya at rank 190 with a score of 2761.8](kaggriculture-leaderboard.png)
 
 The author reports a field of approximately **10,000 participants**, including competitors from multiple labs—an achievement in a large-scale competitive agent-building setting.
 
